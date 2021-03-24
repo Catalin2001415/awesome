@@ -1,4 +1,5 @@
 <div align="center">
+	<a href="https://github.com/sindresorhus/awesome">https://github.com/sindresorhus/awesome</a>
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
